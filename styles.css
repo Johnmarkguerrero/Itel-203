@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Page Title</title>
+<title>My Resume</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -12,19 +12,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-}
-
-/* Style the header */
-.header {
-  padding: 80px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-}
-
-/* Increase the font size of the h1 element */
-.header h1 {
-  font-size: 40px;
 }
 
 /* Create two unequal columns that sits next to each other */
@@ -39,13 +26,6 @@ body {
 .main {   
   flex: 70%;
   background-color: white;
-  padding: 20px;
-}
-
-/* Fake image, just for this example */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
   padding: 20px;
 }
 
