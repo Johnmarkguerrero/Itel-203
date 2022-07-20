@@ -30,14 +30,14 @@ body
 
 .column1 
 {
-  float: left;
+  flex: left;
   width: 20%;
   height: 1000px; 
 }
 
 .column2 
 {
-  float: right;
+  flex: right;
   width: 80%;
   height: 1000px; 
 }
