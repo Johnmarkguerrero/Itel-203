@@ -31,15 +31,15 @@ body
 .column1 
 {
   float: left;
-  width: 50%;
+  width: 40%;
   padding: 10px;
   height: 1000px; 
 }
 
 .column2 
 {
-  flex: right;
-  width: 50%;
+  float: right;
+  width: 40%;
   padding: 10px;
   height: 1000px; 
 }
