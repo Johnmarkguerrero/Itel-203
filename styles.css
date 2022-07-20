@@ -18,7 +18,7 @@ body
 .header 
 {
   padding: 80px;
-  text-align: right;
+  text-align: center;
   background: Light Blue;
   color: white;
 }
@@ -33,17 +33,25 @@ body
 /* Sidebar/left column */
 .side 
 {
-  flex: 30%;
-  background-color: Yellow;
-  padding: 20px;
-}
+  <div class="split left">
+  <div class="centered">
+    flex: 30%;
+    background-color: Yellow;
+    padding: 20px;
+  </div>
+</div>
+ }
 
 /* Main column */
 .main 
 {   
+  <div class="split right">
+  <div class="centered">
   flex: 70%;
   background-color: white;
   padding: 20px;
+  </div>
+</div>
 }
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
