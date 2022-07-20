@@ -31,7 +31,7 @@ body
 .column1 
 {
   float: left;
-  width: 30px;
+  width: 100px;
   padding: 10px;
   height: 1000px; 
 }
@@ -39,7 +39,7 @@ body
 .column2 
 {
   float: right;
-  width: 120px;
+  width: 30px;
   padding: 10px;
   height: 1000px; 
 }
