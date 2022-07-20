@@ -17,7 +17,7 @@ body
 
 .header
 {
-  padding: 80px;
+  padding: 10px;
   text-align: center;
   background: Blue;
   color: white;
@@ -30,17 +30,17 @@ body
 
 .column1 
 {
-  float: left;
-  width: 40%;
-  padding: 20px;
+  flex: left;
+  width: 50%;
+  padding: 5px;
   height: 1000px; 
 }
 
 .column2 
 {
-  float: right;
+  flex: right;
   width: 50%;
-  padding: 20px;
+  padding: 5px;
   height: 1000px; 
 }
 
