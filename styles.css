@@ -31,14 +31,14 @@ body
 .column1 
 {
   float: left;
-  width: 50%;
+  width: 20%;
   height: 1000px; 
 }
 
 .column2 
 {
   float: right;
-  width: 50%;
+  width: 80%;
   height: 1000px; 
 }
 
